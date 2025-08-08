@@ -4,4 +4,4 @@ Design and develop a responsive, visually appealing virtual business card using 
 
 Here is a preview of the Virtual Business Card:
 
-![Virtual Business Card Screenshot](C:\Users\abiga\OneDrive\Desktop\MotionCut Pro1\Virtual_Bussiness_Card\image)
+![Virtual Business Card Screenshot](image/Screenshot 2025-08-08 144323.png)
